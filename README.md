@@ -1,24 +1,34 @@
- Cross-Border Payment Cost Analysis
-### Overview
-I conducted this project to compare cross-border payment costs across multiple currencies, focusing on differences between traditional SWIFT transfers and an XRP-based model.
-## Full Research Report
-[View Full Report](./Ripple-Cross-Border-Payments-Analysis-Paper.docx)
-###  What’s Included
-- 10 currency comparisons (GBP, EUR, JPY, AUD, INR, MXN, etc.)
-- Transaction fee analysis
+# Ripple Cross-Border Payments Projects
+## 1. Cross-Border Payment Cost Analysis (SWIFT vs XRP)
+Conducted an Excel-based cost analysis comparing traditional SWIFT transfers with an XRP-based payment model across 10 currencies.
+### Links
+- [Download Excel Model](XRP_Transfer_Comparison_10_Currencies.xlsx)
+- [View Project Screenshot](project-overview.png)
+### Key Findings
+- Compared transfer costs across GBP, EUR, JPY, AUD, INR, MXN, CAD, CHF, CNY, and SGD
+- Analyzed transaction fees, FX rate differences, and total transfer savings
+- Found consistent savings from lower fees and improved exchange rates
+- Compared traditional 2–5 day settlement times with near real-time XRP-based settlement
+### Skills Demonstrated
+- Financial modeling
+- Excel analysis
 - FX rate comparison
-- Total transfer savings (%)
-- Final received amounts in local currency
-###  Key Insight
-Demonstrates how blockchain-based liquidity solutions can improve global payment efficiency and reduce reliance on intermediary banking systems.
-###  Skills Demonstrated
-- Financial modeling (Excel)
-- FX rate analysis
-- Cost comparison
-- Cross-border payments understanding
-- Microsoft Excel
-###  Project Preview
-![Project Screenshot](project-overview.png)
+- Cross-border payments research
+-  Cost savings analysis
+---
+## 2. Ripple Cross-Border Payments Research Paper
+Wrote a research paper analyzing Ripple’s role in modernizing cross-border payments and explaining how XRP-based liquidity can reduce cost, delay, and reliance on intermediary banks.
+### Links
+- [View Full Research Paper](Ripple-Cross-Border-Payments-Analysis-Paper.docx)
+### Topics Covered
+- How SWIFT works
+- Limitations of intermediary banking
+- RippleNet and XRP liquidity
+- Cost and speed comparison
+- - Real-world use cases for global payments
+### Key Insight
+Ripple’s technology shows how blockchain-based payment infrastructure can improve international money movement by reducing settlement delays, transfer costs, and dependence on pre-funded accounts.
+
 
 
 
