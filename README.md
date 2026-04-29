@@ -2,7 +2,7 @@
 ## 1. Cross-Border Payment Cost Analysis (SWIFT vs XRP)
 Conducted an Excel-based cost analysis comparing traditional SWIFT transfers with an XRP-based payment model across 10 currencies.
 ### Links
-- [Download Excel Model](XRP_Transfer_Comparison_10_Currencies.xlsx)
+- [Download Excel Model]https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmasonkubenez%2Fcross-border-payment-analysis%2Frefs%2Fheads%2Fmain%2FXRP_Transfer_Comparison_10_Currencies.xlsx&wdOrigin=BROWSELINK)
 - [View Project Screenshot](project-overview.png)
 ### Key Findings
 - Compared transfer costs across GBP, EUR, JPY, AUD, INR, MXN, CAD, CHF, CNY, and SGD
