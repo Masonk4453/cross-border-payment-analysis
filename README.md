@@ -10,7 +10,7 @@ I conducted this project to compare cross-border payment costs across multiple c
 - Total transfer savings (%)
 - Final received amounts in local currency
 ###  Key Insight
-Across all tested currencies, lower fees and improved FX rates resulted in consistent savings compared to traditional transfer systems.
+Demonstrates how blockchain-based liquidity solutions can improve global payment efficiency and reduce reliance on intermediary banking systems.
 ###  Skills Demonstrated
 - Financial modeling (Excel)
 - FX rate analysis
