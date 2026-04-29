@@ -1,6 +1,6 @@
 # Ripple Cross-Border Payments Projects
 ## 1. Cross-Border Payment Cost Analysis (SWIFT vs XRP)
-Conducted an Excel-based financial analysis comparing traditional SWIFT transfers with an XRP-based settlement model across 10 currencies to evaluate cost, FX efficiency, and settlement speed.
+Built an Excel-based financial model to evaluate cost,FX efficiency, and settlement speed across 10 cross-border currency corridors.
 ### 🔗 Links
 - [Download Excel Model](https://github.com/masonkubenez/cross-border-payment-analysis/raw/main/XRP_Transfer_Comparison_10_Currencies.xlsx)
 ###  Key Results
@@ -12,7 +12,6 @@ Conducted an Excel-based financial analysis comparing traditional SWIFT transfer
 XRP-based transfers consistently reduced both cost and settlement time, demonstrating the efficiency of blockchain-based liquidity solutions compared to traditional intermediary banking systems.
 ###  Preview
 ![Project Screenshot](project-overview.png)
-
 ### 🛠️ Skills Demonstrated
 - Financial modeling (Excel)
 - FX rate analysis
